@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "661e00df3b3a324f3cfdaa53"
+  },
+  "description": "Malliot amarillo tour france",
+  "price": 1000,
+  "thumbnail": "malliot.jpg",
+  "code": "t123",
+  "stock": 10,
+  "status": true,
+  "tittle": "Tricota Amarilla"
+},
+{
+  "_id": {
+    "$oid": "661e07ee9c2da0f2c29777cb"
+  },
+  "description": "Calza larga negra",
+  "price": 47000,
+  "thumbnail": "short.jpg",
+  "code": "c123",
+  "stock": 10,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661e11f1abbc0e4eea2d6344"
+  },
+  "title": "Casco blanco",
+  "description": "Casco blanco Specialized",
+  "price": 25000,
+  "thumbnail": "casco.jpg",
+  "code": "c1234",
+  "stock": 10,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f342d5fe8d15543f27c23"
+  },
+  "title": "Guantes cortos",
+  "description": "Guantes negros sin dedos",
+  "price": 15000,
+  "thumbnail": "guantes.jpg",
+  "code": "g1234",
+  "stock": 10,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f34445fe8d15543f27c25"
+  },
+  "title": "Zapatos negros",
+  "description": "Zapatos negros carbono",
+  "price": 87000,
+  "thumbnail": "zapnegro.jpg",
+  "code": "zn1",
+  "stock": 10,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f344e5fe8d15543f27c27"
+  },
+  "title": "Zapatos blancos",
+  "description": "Zapatos blancos planta carbono",
+  "price": 100000,
+  "thumbnail": "zapblancos.jpg",
+  "code": "zb234",
+  "stock": 10,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f34555fe8d15543f27c29"
+  },
+  "title": "Casco Negro",
+  "description": "Casco negro Spiuk",
+  "price": 135000,
+  "thumbnail": "casconegro.jpg",
+  "code": "cn1234",
+  "stock": 10,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f34685fe8d15543f27c2b"
+  },
+  "title": "Calcetas Blancas",
+  "description": "Calcetas blancas Willier",
+  "price": 13000,
+  "thumbnail": "calblancas.jpg",
+  "code": "cb34",
+  "stock": 10,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f34735fe8d15543f27c2d"
+  },
+  "title": "Tricota puntos",
+  "description": "Tricota blaca puntos rojos",
+  "price": 45000,
+  "thumbnail": "malliotbpr.jpg",
+  "code": "mpr123",
+  "stock": 10,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f347d5fe8d15543f27c2f"
+  },
+  "title": "Tricota Verde",
+  "description": "Malliot Verde",
+  "price": 40000,
+  "thumbnail": "malliotverde.jpg",
+  "code": "mv234",
+  "stock": 10,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f34895fe8d15543f27c31"
+  },
+  "title": "rueda",
+  "description": "rueda carbono",
+  "price": 10000,
+  "thumbnail": "img_rueda.jpg",
+  "code": "rcsh2",
+  "stock": 1000,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f34945fe8d15543f27c33"
+  },
+  "title": "rueda",
+  "description": "rueda carbono 8cm",
+  "price": 1200000,
+  "thumbnail": "img_rueda.jpg",
+  "code": "rcsh3",
+  "stock": 1000,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f34b65fe8d15543f27c35"
+  },
+  "title": "rueda",
+  "description": "rueda aluminio sh",
+  "price": 120000,
+  "thumbnail": "img_rueda.jpg",
+  "code": "rcsh51",
+  "stock": 1000,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f34cb5fe8d15543f27c37"
+  },
+  "title": "rueda",
+  "description": "rueda aluminio mavic",
+  "price": 250000,
+  "thumbnail": "img_rueda.jpg",
+  "code": "rcsh1",
+  "stock": 10,
+  "status": true,
+  "__v": 0
+}]
