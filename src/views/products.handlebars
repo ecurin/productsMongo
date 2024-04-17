@@ -1,0 +1,19 @@
+<div>
+    <ul>
+        {{#each data.docs}}
+        <li>{{this.code}} - {{this.tittle}} {{this.description}}  <br />
+            Price: {{this.price}} <br />
+            Stock: {{this.stock}}</li>
+        {{/each}}
+    </ul>
+
+    Pagina actual: {{data.page}}
+    {{#if data.hasPrevPage}}
+    <a href="/products?limit={{limit}}&sort={{txtSort}}&page={{data.prevPage}}">Prev</a>
+    {{/if}}
+
+    {{#if data.hasNextPage}}
+    <a href="/products?limit={{limit}}&sort={{txtSort}}&page={{data.nextPage}}">Next</a>
+    {{/if}}
+
+</div>
